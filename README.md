@@ -1,2 +1,16 @@
 # banking_application
-A Spring Boot–based Banking Application built with Java 17. This project follows the MVC architecture and includes features like account management, transaction handling, and secure backend services. It demonstrates the use of controllers, services, repositories, and entity layers for building scalable and maintainable banking systems.
+The Banking Application is a backend project developed using Java Spring Boot.
+It simulates essential banking operations such as account creation, deposits, withdrawals, and fund transfers.
+The project follows a clean Model-View-Controller (MVC) design pattern, ensuring separation of business logic, data handling, and presentation layers.
+
+🚀 Features
+
+🧾 Account Management – Create, view, update, and delete customer accounts.
+
+💰 Transaction Handling – Manage deposits, withdrawals, and fund transfers.
+
+🔒 Secure Architecture – Uses Spring Boot’s dependency injection and layered structure.
+
+⚙️ MVC Design – Controller, Service, Repository, and Entity layers for modularity.
+
+🧪 Testing Ready – Includes Spring Boot testing setup.
