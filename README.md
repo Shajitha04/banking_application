@@ -14,3 +14,14 @@ The project follows a clean Model-View-Controller (MVC) design pattern, ensuring
 ⚙️ MVC Design – Controller, Service, Repository, and Entity layers for modularity.
 
 🧪 Testing Ready – Includes Spring Boot testing setup.
+
+
+
+| Component           | Technology                 |
+| ------------------- | -------------------------- |
+| **Language**        | Java 17                    |
+| **Framework**       | Spring Boot                |
+| **Database**        | MySQL (configurable)       |
+| **Build Tool**      | Maven                      |
+| **Template Engine** | Thymeleaf (if UI included) |
+| **IDE Used**        | Eclipse / IntelliJ IDEA    |
